@@ -15,7 +15,6 @@ import Header from '../main/header'
 
 import AppMap from '../main/map'
 import AppMachine from '../main/machine'
-import AppMachineAdd from '../main/machine/add'
 import AppMachineChange from '../main/machine/change.js'
 import Popup from '../elements/popup'
 

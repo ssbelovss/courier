@@ -20,3 +20,6 @@ window.setUserGeo = setUserGeo;
 window.appActivate = appActivate;
 
 // setTimeout(userGeo, 500, {longtitude: 56, latitude: 44})
+// changes for git
+// Add changes for secondBranch
+// Second changes for branch 'secondBranch'
