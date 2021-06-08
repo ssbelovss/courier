@@ -157,3 +157,5 @@ export {
     AppMap as default,
     ButtonQR
 }
+
+// add new changes
